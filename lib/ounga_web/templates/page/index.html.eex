@@ -1,0 +1,117 @@
+
+  <section class="hero  is-fullheight-with-navbar intro" 
+                  style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/vic4.JPG');
+                         background-size: cover;
+                         background-position: center;">
+      <div class="hero-body">
+        <div class="container is-fluid" >
+          <h1 class="title has-text-grey-light is-size-2">
+            OUNGA COMMERCIAL AGENCIES
+          </h1>
+          <h2 class="subtitle has-text-primary is-size-3">
+            Real Estate Consultants, Developers and Managing Agents
+          </h2>
+        </div>
+      </div>
+  </section>
+
+<section class="section has-background-white-ter">
+    <div class="container">
+          <h1 class="title has-text-centered has-text-grey-dark is-size-1">Our Services</h1>
+      <div class="columns is-centered">
+        <div class="column">
+         <div class="box">
+          <div class="content has-text-centered">
+             <figure class="image is-128x128">
+              <img src="../images/construction.png">
+            </figure>
+            <br>
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Letting $ Management</h2>
+             <div class="contents is-small is-family-primary">
+                 <p >We aspire to offer easy location of both patients and hospitals,<br>
+                 to provide quick medical services and to keep succuint medical<br>records on a continuos basis.</p>
+            </div>
+          </div>
+        </div>
+        </div>
+        <div class="column">
+          <div class="box">
+          <div class="content has-text-centered">
+             <figure class="image is-128x128">
+              <img src="../images/calendar.png">
+             </figure>
+             <br>
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Events $ Venues</h2>
+            <div class="contents is-small is-family-primary">
+                   <p>We aspire to offer easy location of both patients and hospitals,<br>
+                   to provide quick medical services and to keep succuint medical<br>records on a continuos basis.</p>
+            </div>
+        </div>
+      </div>
+        </div>
+        <div class="column">
+          <div class="box">
+          <div class="content has-text-centered">
+           <figure class="image is-128x128">
+            <img src="../images/shutter.png">
+           </figure>
+           <br>
+           
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Art Center</h2>
+            <div class="contents is-small is-family-sans-primary">
+                 <p>We aspire to offer easy location of both patients and hospitals,<br>
+                 to provide quick medical services and to keep succuint medical<br>records on a continuos basis.</p>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+      </div>
+    </div>
+  </section>
+<hr class="navbar-divider">
+
+<section class="section has-background-white-ter">
+      <div class="columns">
+        <div class="column is-narrow">
+          <div class="box is-narrow-mobile" style="width: 400px; height: 300px; background-image: url('../images/prop1.jpg'); background-size: cover;">
+          </div>
+        </div>
+      <div class="column">
+          <h2 class="subtitle is-4 has-text-link has-text-weight-light">Real Estate Management Services </h2>
+          <div class="contents is-small is-family-sans-primary">
+            <ul>
+              <li>Letting & Management</li>
+              <li>Sale of land</li>
+              <li>Art Center</li>
+              <li>Serviced Appartments</li>
+            </ul>
+          </div> 
+      </div>
+      </div>
+  </section>
+
+  <hr class="navbar-divider">
+   
+<footer class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/back6.jpg'); background-size: cover;">
+    <div class="column is-mobile">
+<div class="columns is-desktop">
+  <div class="column">
+    <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
+            <hr class="navbar-divider">
+              <div class="content is-small is-size-6 has-text-grey-light">
+              Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, 
+              </div>
+  </div>
+  <div class="column">
+    <h1 class="subtitle is-5 has-text-grey-light">Reach out!</h1>
+          <div class="content is-small is-family-primary has-text-white">
+            <p> oungaland@gmail.com </p>
+            <p> 057-2025172, +254722-739504  </p>
+            <p> Kogello gardens, Millimani-Kisumu</p>
+          </div>
+  </div>
+  
+</div>
+</div>
+</footer>

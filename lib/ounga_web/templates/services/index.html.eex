@@ -1,0 +1,42 @@
+<section class="hero is-fullheight-with-navbar" style="background-image: url('../images/rael1.jpg'); background-size: cover; background-repeat: no-repeat;">
+  <section class="hero-body"></section>
+    <div class="container">
+      <h1 class="title has-text-primary">We provide property management Services</h1>
+      <h2 class="subtitle">
+        Invest in Ounga commercials
+      </h2>
+    </div>
+    </section>
+  </section>
+  <section class="section has-background-grey-dark">
+    <div class="container">
+      <h1 class="title has-text-grey-lighter">Letting and Management</h1>
+      <h2 class="subtitle">
+        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
+      </h2>
+    </div>
+  </section>
+  <section class="section has-background-grey" style="background-image: url('../images/rael1.jpg');" >
+    <div class="container" >
+      <h1 class="title">Events $ Venues</h1>
+      <h2 class="subtitle">
+        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
+      </h2>
+    </div>
+  </section>
+  <section class="section has-background-grey-light">
+    <div class="container">
+      <h1 class="title">Rent Collection & management</h1>
+      <h2 class="subtitle">
+        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
+      </h2>
+      <h1 class="title">Sale of Land</h1>
+      <h2 class="subtitle">
+        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
+      </h2>
+      <h1 class="title">Serviced Appartment</h1>
+      <h2 class="subtitle">
+        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
+      </h2>
+    </div>
+  </section>

@@ -1,0 +1,19 @@
+<section class="hero is-success is-fullheight" 
+				style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.8)), url('../images/team2.jpg');
+				       background-size: cover;
+				       background-position: center;
+				       background-repeat: no-repeat;
+       				   width: 100%;">
+				     
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title has-text-black is-italic">
+        Hero title
+      </h1>
+      <h2 class="subtitle has-text-black">
+        Hero subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+

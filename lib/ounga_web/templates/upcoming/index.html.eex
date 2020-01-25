@@ -1,0 +1,35 @@
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <div class="tile is-ancestor">
+          <div class="tile is-vertical is-">
+            <div class="tile">
+              <div class="tile is-parent is-vertical">
+                <article class="tile is-child notification has-background-grey-light">
+                  <p class="title">Victoria Terraces</p>
+                  <p class="subtitle">We create some of the best terraces in town</p>
+                    <a class="button is-dark" href="/terraces">View</a>
+                </article>
+                <article class="tile is-child notification is-warning">
+                  <p class="title">Raeli Gardens</p>
+                  <p class="subtitle">Come enjoy the serenity of Reali gardens</p>
+                  <a class="button is-dark" href="/raeli">View</a>
+                </article>
+              </div>
+              <div class="tile is-parent">
+                <article class="tile is-child notification is-info">
+                  <p class="title">Affordable Units</p>
+                  <p class="subtitle">Looking for available and Affordable units?</p>
+                  <figure class="image is-4by3">
+                    <img src="../images/img1.JPG">
+                  </figure>
+                  <br>
+                   <a class="button is-dark" href="/units">View</a>
+                </article>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,229 @@
+<section class="section has-background-white-ter">
+<div class="container">
+
+  <h1 class="title has-text-centered has-text-black is-size-3">
+    Victoria Gardens
+  </h1>
+
+<div class="columns is-multiline is-centered">
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img1.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.20,000</p>
+                <p class="subtitle is-4">House 1A</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+       <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img2.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.30,000</p>
+                <p class="subtitle is-4">House 1B</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img1.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.40,000</p>
+                <p class="subtitle is-4">House 1C</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+             
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img2.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.50,000</p>
+                <p class="subtitle is-4">House 1D</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+             
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div> 
+</div>
+<div class="columns is-multiline is-centered">
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img1.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.20,000</p>
+                <p class="subtitle is-4">House 1A</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+       <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img2.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.30,000</p>
+                <p class="subtitle is-4">House 1B</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img1.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.40,000</p>
+                <p class="subtitle is-4">House 1C</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+             
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/img2.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Ksh.50,000</p>
+                <p class="subtitle is-4">House 1D</p>
+              </div>
+            </div>
+
+            <div class="content">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+             
+              <br>
+              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+            </div>
+          </div>
+        </div>
+      </div> 
+</div>
+</div>
+</section>
+<hr class="navbar-divider">
+   
+<footer class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/back6.jpg'); background-size: cover;">
+    <div class="column is-mobile">
+<div class="columns is-desktop">
+  <div class="column">
+    <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
+            <hr class="navbar-divider">
+              <div class="content is-small is-size-6 has-text-grey-light">
+              Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, 
+              </div>
+  </div>
+  <div class="column">
+    <h1 class="subtitle is-5 has-text-grey-light">Reach out!</h1>
+          <div class="content is-small is-family-primary has-text-white">
+            <p> oungaland@gmail.com </p>
+            <p> 057-2025172, +254722-739504  </p>
+            <p> Kogello gardens, Millimani-Kisumu</p>
+          </div>
+  </div>
+  
+</div>
+</div>
+</footer>   
