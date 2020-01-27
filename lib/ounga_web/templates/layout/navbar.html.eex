@@ -1,52 +1,50 @@
-<section class="hero">
-<nav class="navbar" role="navigation" aria-label="main navigation">
-          <div class="navbar-brand">
-            <%# <a class="navbar-item"  href="/">
-              <img src= url("../images/all_out_black.png") alt="ounga logo"  width="128" height="58"/>
-            </a> %>
-            <h1 class="title">O.C.A</h1>
-            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-              <span aria-hidden="true"></span>
-              <span aria-hidden="true"></span>
-              <span aria-hidden="true"></span>
-            </a>
-          </div>
+ <nav class="navbar is-primary is-expanded is-fixed-top" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item">
+      <img src="../images/flowers.png" width="90" height="120" alt="OCA logo">
+      <h1 class="subtitle">OUNGA REAL ESTATE</h1>
+    </a>
 
-        <div class="navbar-menu">
-          <div class="navbar-end">
-            <a class="navbar-item is-size-6 has-text-black" href="/">
-              Home
-            </a>
+    <div role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" data-target="navbarExampleTransparentExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </div>
+  </div>
 
-            <a class="navbar-item is-size-6 has-text-black" href="/about">
-              Why Choose Us!
-            </a>
-            <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-item is-size-6 navbar-link has-text-black ">
-               Projects
-            </a>
-                <div class="navbar-dropdown">
-                  <a class=" navbar-item is-size-6 has-text-primary " href="/victoria" >
-                    Victoria Gardens
-                  </a>
-                  <a class="navbar-item is-size-6 has-text-primary " href="/upcoming">
-                    Upcoming projects
-                  </a>
-                </div>
-            </div>    
-            <hr class="navbar-divider">
-            <div class="navbar-item">
-              <a class="navbar-item is-size-6 has-text-black " href="/services">
-                Services
-              </a>
-            </div>
-            <a class="navbar-item is-size-6 has-text-black">
-              Contact Us
-            </a>
-          </div>
+  <div class="navbar-menu">
+    <div class="navbar-end">
+      <a class="navbar-item is-size-6 has-text-black is-tab" href="/">
+        Home
+      </a>
+
+      <a class="navbar-item is-size-6 has-text-black is-tab" href="/about">
+        Why Choose Us!
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-item is-size-6 navbar-link has-text-black is-tab">
+           Projects
+        </a>
+        <div class="navbar-dropdown is-boxed">
+          <a class=" navbar-item is-size-6" href="/victoria" >
+            Victoria Gardens
+          </a>
+          <a class="navbar-item is-size-6 has-text-primary" href="/upcoming">
+            Upcoming projects
+          </a>
         </div>
-      </nav>
-      </section>
+      </div>
+
+      <a class="navbar-item is-size-6 has-text-black is-tab" href="/services">
+        Services
+      </a>
+      <a class="navbar-item is-size-6 has-text-black is-tab" href="/contact">
+        Contact Us
+      </a>
+    </div>
+</nav>
+
      <%# <hr class="navbar-divider"> %>
 
 

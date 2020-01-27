@@ -22,9 +22,9 @@
         <div class="column">
          <div class="box">
           <div class="content has-text-centered">
-             <figure class="image is-128x128">
-              <img src="../images/construction.png">
-            </figure>
+             <a class="image is-96x96">
+              <img src="../images/ecology.png" alt="phone icon">
+            </a>
             <br>
                   <h2 class="subtitle is-5 has-text-link has-text-weight-light">Letting $ Management</h2>
              <div class="contents is-small is-family-primary">
@@ -37,9 +37,9 @@
         <div class="column">
           <div class="box">
           <div class="content has-text-centered">
-             <figure class="image is-128x128">
-              <img src="../images/calendar.png">
-             </figure>
+             <a class="image is-96x96">
+              <img src="../images/event.png" alt="calendar icon">
+            </a>
              <br>
                   <h2 class="subtitle is-5 has-text-link has-text-weight-light">Events $ Venues</h2>
             <div class="contents is-small is-family-primary">
@@ -52,9 +52,9 @@
         <div class="column">
           <div class="box">
           <div class="content has-text-centered">
-           <figure class="image is-128x128">
-            <img src="../images/shutter.png">
-           </figure>
+           <a class="image is-96x96">
+              <img src="../images/shutter.png" alt="phone icon">
+            </a>
            <br>
            
                   <h2 class="subtitle is-5 has-text-link has-text-weight-light">Art Center</h2>
@@ -74,8 +74,9 @@
 <section class="section has-background-white-ter">
       <div class="columns">
         <div class="column is-narrow">
-          <div class="box is-narrow-mobile" style="width: 400px; height: 300px; background-image: url('../images/prop1.jpg'); background-size: cover;">
-          </div>
+          <a class="image is-128x128">
+              <img class="is-rounded" src="../images/prop1.jpg" alt="phone icon">
+            </a>
         </div>
       <div class="column">
           <h2 class="subtitle is-4 has-text-link has-text-weight-light">Real Estate Management Services </h2>
@@ -100,7 +101,7 @@
     <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
             <hr class="navbar-divider">
               <div class="content is-small is-size-6 has-text-grey-light">
-              Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, 
+              OCA was founded in 1992 with a vision to establish an integrated and professional market within Kisumu County to enhance a competition within the global standards.
               </div>
   </div>
   <div class="column">
@@ -115,3 +116,8 @@
 </div>
 </div>
 </footer>
+<section class="section has-background-white-ter">
+  <div class="content has-text-centered is-small is-family-primary has-text-black">
+       <p>Copyright 2020 © Ounga Commercial Agencies. All rights reserved. Created by Jomo.</p>
+     </div>
+</section>

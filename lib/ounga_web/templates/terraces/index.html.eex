@@ -1,19 +1,169 @@
-<section class="hero is-success is-fullheight" 
-				style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.8)), url('../images/team2.jpg');
-				       background-size: cover;
-				       background-position: center;
-				       background-repeat: no-repeat;
-       				   width: 100%;">
-				     
-  <div class="hero-body">
+<section class="hero is-fullheight has-background-white-ter">
+	<div class="hero-body">
     <div class="container">
-      <h1 class="title has-text-black is-italic">
-        Hero title
-      </h1>
-      <h2 class="subtitle has-text-black">
-        Hero subtitle
-      </h2>
+
+        <h1 class="title has-text-centered has-text-black is-size-3">
+          Victoria Terraces
+        </h1>
+
+        <div class="modal" href="">View</div>
+
+      <div class="columns is-multiline is-centered">
+        <div class="column">
+           <div class="card">
+              <div class="card-image">
+                <figure class="image is-5by4">
+                  <img src="../images/ter.jpg" alt="victoria terraces">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                    <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit A</p>
+                  </div>
+                </div>
+
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </div>
+              </div>
+           </div>
+        </div>
+        <div class="column">
+          <div class="card">
+              <div class="card-image">
+                <figure class="image is-5by4">
+                  <img src="../images/ter1.jpg" alt="victoria terraces">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit B</p>
+                  </div>
+                </div>
+
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </div>
+              </div>
+           </div>
+        </div>
+        <div class="column">
+          <div class="card">
+              <div class="card-image">
+                <figure class="image is-5by4">
+                  <img src="../images/ter2.jpg" alt="victoria terraces">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit C</p>
+                  </div>
+                </div>
+
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </div>
+              </div>
+           </div>
+        </div>
+      </div>
+      <div class="columns is-multiline is-centered">
+        <div class="column">
+          <div class="card">
+              <div class="card-image">
+                <figure class="image is-1by1">
+                  <img src="../images/ter4.jpg" alt="victoria terraces">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                   <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit D</p>
+                  </div>
+                </div>
+
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </div>
+              </div>
+           </div>
+        </div>
+        <div class="column">
+          <div class="card">
+              <div class="card-image">
+                <figure class="image is-1by1">
+                  <img src="../images/ter5.jpg" alt="victoria terraces">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit E</p>
+                  </div>
+                </div>
+
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </div>
+              </div>
+           </div>
+        </div>
+        <div class="column">
+          <div class="card">
+              <div class="card-image">
+                <figure class="image is-1by1">
+                  <img src="../images/ter6.jpg" alt="victoria terraces">
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="media">
+                  <div class="media-content">
+                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit F</p>
+                  </div>
+                </div>
+
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </div>
+              </div>
+           </div>
+        </div>
+      </div>
+      <a class="button is-link is-light is-small is-fullwidth is-outlined is-rounded" href="/upcoming">Back</a>
     </div>
+
   </div>
+</section>
+<hr class="navbar-divider">
+   
+<footer class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/back6.jpg'); background-size: cover;">
+    <div class="column is-mobile">
+      <div class="columns is-desktop">
+        <div class="column">
+          <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
+                  <hr class="navbar-divider">
+                    <div class="content is-small is-size-6 has-text-grey-light">
+                    Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, 
+                    </div>
+        </div>
+        <div class="column">
+          <h1 class="subtitle is-5 has-text-grey-light">Reach out!</h1>
+                <div class="content is-small is-family-primary has-text-white">
+                  <p> oungaland@gmail.com </p>
+                  <p> 057-2025172, +254722-739504  </p>
+                  <p> Kogello gardens, Millimani-Kisumu</p>
+                </div>
+        </div>
+      </div>
+    </div>
+     
+</footer>
+<section class="section has-background-white-ter">
+  <div class="content has-text-centered is-small is-family-primary has-text-black">
+       <p>Copyright 2020 © Ounga Commercial Agencies. All rights reserved. Created by Jomo.</p>
+     </div>
 </section>
 

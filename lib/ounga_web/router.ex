@@ -24,6 +24,7 @@ defmodule OungaWeb.Router do
     get "/terraces", TerracesController, :index
     get "/raeli", RaeliController, :index
     get "/units", UnitsController, :index
+    get "/contact", ContactController, :index
   end
 
   # Other scopes may use custom stacks.

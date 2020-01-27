@@ -1,0 +1,63 @@
+<section class="section">
+<div class="container is-widescreen">
+  <div class="notification">
+    <h1 class="title has-text-centered has-text-black is-size-3">
+    Contact Us
+  </h1>
+  <div class="content has-text-centered">
+  <p class="subtitle">We’re easy to get ahold of and are in the office Monday - Friday</p>
+    <time>08:00 AM to 05:00PM</time>
+  </div>
+      <div class="columns is-centered">
+        <div class="column">
+         <div class="box">
+          <div class="content has-text-centered">
+            <a class="image is-96x96">
+              <img src="../images/pin.png" alt="pin icon">
+            </a>
+            <br>
+                  <h2 class="subtitle is-6 has-text-grey is-small is-family-sans-primary">Kogello Gardens</h2>
+             <div class="content is-small is-family-primary has-text-grey-dark">
+                 <p >Kogello suits & Villa</p>
+                 <p >2115-40100 Kisumu</p>
+                 <p >Milimani estate - Busia rd.</p>
+               
+            </div>
+          </div>
+        </div>
+        </div>
+        <div class="column">
+          <div class="box">
+          <div class="content has-text-centered">
+             <a class="image is-96x96">
+              <img src="../images/telephone.png" alt="phone icon">
+            </a>
+             <br>
+                  <h2 class="subtitle is-6 has-text-grey is-small is-family-sans-primary">Ounga Office</h2>
+            <div class="content is-small is-family-primary has-text-grey">
+                   <h5>(+254)722-739504</h5>
+                   <h5>(+254)720-493764</h5>
+            </div>
+        </div>
+      </div>
+        </div>
+        <div class="column">
+          <div class="box is-mobile">
+          <div class="content has-text-centered">
+           <a class="image is-96x96">
+              <img src="../images/mail.png" alt="mail icon">
+           </a>
+           <br>
+           
+                  <h2 class="subtitle is-6 has-text-grey is-medium is-family-sans-primary">Send mail</h2>
+            <div class="content is-small is-family-primary">
+                 <p>oungaland@gmail.com</p>
+            </div>
+          </div>
+      </div>
+    </div>
+      </div>
+  </div>
+
+</div>
+</section>
