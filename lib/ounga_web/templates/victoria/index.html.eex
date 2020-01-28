@@ -10,22 +10,17 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img1.JPG" alt="Placeholder image">
+              <img src="../images/2 br1.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.20,000</p>
-                <p class="subtitle is-4">House 1A</p>
+                <p class="title is-6">2 Bdr Apartments</p>
+                <p class="subtitle is-6">Sale Ksh. 10.6M</p>
+                <p class="subtitle is-6">Rent Ksh.30,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -34,22 +29,17 @@
        <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img2.JPG" alt="Placeholder image">
+              <img src="../images/2 br2.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.30,000</p>
-                <p class="subtitle is-4">House 1B</p>
+                <p class="title is-6">2 Bdr Apartments</p>
+                <p class="subtitle is-6">Sale Ksh. 10.6M</p>
+                <p class="subtitle is-6">Rent Ksh.30,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -58,22 +48,17 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img1.JPG" alt="Placeholder image">
+              <img src="../images/2 br 4.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.40,000</p>
-                <p class="subtitle is-4">House 1C</p>
+               <p class="title is-6">2 Bdr Apartments</p>
+                <p class="subtitle is-6">Sale Ksh. 10.6M</p>
+                <p class="subtitle is-6">Rent Ksh.30,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-             
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -82,22 +67,95 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img2.JPG" alt="Placeholder image">
+              <img src="../images/2 br 5.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.50,000</p>
-                <p class="subtitle is-4">House 1D</p>
+                <p class="title is-6">2 Bdr Apartments</p>
+                <p class="subtitle is-6">Sale Ksh. 10.6M</p>
+                <p class="subtitle is-6">Rent Ksh.30,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
             </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-             
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+          </div>
+        </div>
+      </div> 
+</div>
+<div class="columns is-multiline is-centered">
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/3 bdr.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-6">3 Bdr Apartments + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 16.1M</p>
+                <p class="subtitle is-6">Rent Ksh.50,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+       <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/3 br 2.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-6">3 Bdr Apartments + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 16.1M</p>
+                <p class="subtitle is-6">Rent Ksh.50,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/3 br 3.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-6">3 Bdr Apartments + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 16.1M</p>
+                <p class="subtitle is-6">Rent Ksh.50,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/3 br 4.JPG" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-6">3 Bdr Apartments + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 16.1M</p>
+                <p class="subtitle is-6">Rent Ksh.50,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
+              </div>
             </div>
           </div>
         </div>
@@ -114,16 +172,11 @@
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.20,000</p>
-                <p class="subtitle is-4">House 1A</p>
+                <p class="title is-6">4 Bdr Mansionette + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 19.75M</p>
+                <p class="subtitle is-6">Rent Ksh.60,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -132,22 +185,17 @@
        <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img2.JPG" alt="Placeholder image">
+              <img src="../images/4 br 3.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.30,000</p>
-                <p class="subtitle is-4">House 1B</p>
+                <p class="title is-6">4 Bdr Mansionette + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 19.75M</p>
+                <p class="subtitle is-6">Rent Ksh.60,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -156,22 +204,17 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img1.JPG" alt="Placeholder image">
+              <img src="../images/4 br 4.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.40,000</p>
-                <p class="subtitle is-4">House 1C</p>
+                <p class="title is-6">4 Bdr Mansionette + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 19.75M</p>
+                <p class="subtitle is-6">Rent Ksh.60,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-             
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
@@ -180,22 +223,17 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/img2.JPG" alt="Placeholder image">
+              <img src="../images/4 br 5.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Ksh.50,000</p>
-                <p class="subtitle is-4">House 1D</p>
+                <p class="title is-6">4 Bdr Mansionette + Dsq</p>
+                <p class="subtitle is-6">Sale Ksh. 19.75M</p>
+                <p class="subtitle is-6">Rent Ksh.60,000</p>
+                <p>Ksh. 5,000 additiol service charge on rent</p>                                                                           
               </div>
-            </div>
-
-            <div class="content">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-             
-              <br>
-              <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
             </div>
           </div>
         </div>
