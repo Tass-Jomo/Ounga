@@ -23,13 +23,12 @@
          <div class="box">
           <div class="content has-text-centered">
              <a class="image is-96x96">
-              <img src="../images/ecology.png" alt="phone icon">
+              <img src="../images/building.png" alt="phone icon">
             </a>
             <br>
                   <h2 class="subtitle is-5 has-text-link has-text-weight-light">Letting $ Management</h2>
              <div class="contents is-small is-family-primary">
-                 <p >We aspire to offer easy location of both patients and hospitals,<br>
-                 to provide quick medical services and to keep succuint medical<br>records on a continuos basis.</p>
+                 <p >We save you the hustle and bustle of letting and managing your property so you can relax and build more.</p>
             </div>
           </div>
         </div>
@@ -41,10 +40,9 @@
               <img src="../images/event.png" alt="calendar icon">
             </a>
              <br>
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Events $ Venues</h2>
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Event venues</h2>
             <div class="contents is-small is-family-primary">
-                   <p>We aspire to offer easy location of both patients and hospitals,<br>
-                   to provide quick medical services and to keep succuint medical<br>records on a continuos basis.</p>
+                   <p>We have stunningly manicured gardens ideal for events i.e Weddings, camping and parties.</p>
             </div>
         </div>
       </div>
@@ -53,14 +51,13 @@
           <div class="box">
           <div class="content has-text-centered">
            <a class="image is-96x96">
-              <img src="../images/shutter.png" alt="phone icon">
+              <img src="../images/ecology.png" alt="phone icon">
             </a>
            <br>
            
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Art Center</h2>
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Real Estate</h2>
             <div class="contents is-small is-family-sans-primary">
-                 <p>We aspire to offer easy location of both patients and hospitals,<br>
-                 to provide quick medical services and to keep succuint medical<br>records on a continuos basis.</p>
+                 <p>We are in the business of creating stunning homes, giving value is always in our niche.</p>
             </div>
           
         </div>
