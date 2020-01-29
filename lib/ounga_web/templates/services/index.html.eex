@@ -1,61 +1,116 @@
-<section class="hero is-fullheight-with-navbar" style="background-image: url('../images/rael1.jpg'); background-size: cover; background-repeat: no-repeat;">
-  <section class="hero-body"></section>
+<section class="section has-background-white-ter">
+  
     <div class="container">
-      <h1 class="title has-text-primary">We provide property management Services</h1>
-      <h2 class="subtitle">
+      <h1 class="title has-text-grey-dark is-size-6-mobile has-text-light">We provide property management services in Kisumu According to your needs </h1>
+      <h2 class="subtitle is-size-6 is-size-6-mobile">
         Invest in Ounga commercials
       </h2>
     </div>
+   
+  </section>
+  <hr class="navbar-divider">
+  <section class="hero" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/nielsen.jpg');
+                         background-size: cover;
+                         background-position: center;">
+    <section class="hero-body">
+      <div class="container">
+         <h1 class="title has-text-white has-text-weight-light is-size-5-mobile">Our real estate management services in Kisumu</h1>
+         <br>
+         <h2 class="subtitle has-text-white is-size-6-mobile" >All information will be provided under request</h2>
+         <br>
+           <div class="columns has-text-white has-text-left-mobile">
+              <div class="column">
+                  <li>Letting and Management</li>
+                  <li>Land transaction</li>
+                  <li>Estate development</li>
+                  <li>Serviced apartments</li>
+                  <li>Rent Collection</li>
+              </div>
+              <div class="column">
+                <li>Land development</li>
+                <li>Land valuation</li>
+                <li>Joint venture</li>
+                <li>Art center</li>
+                <li>Sale of land</li>
+              </div>
+            </div>
+      </div>
+    </section>    
+  </section>
+  <hr class="navbar-divider">
+  <section class="hero has-background-white-ter">
+    <section class="hero-body">
+    <div class="container has-text-centered" >
+      <h1 class="title is-size-6-mobile">Event venues</h1>
+      <div class="columns">
+        <div class="column">
+          <div class="card">
+            <div class="card-image">
+              <figure class="image is-4by3">
+                <img src="../images/wed1.jpg" alt="wedding image">
+              </figure>
+            </div>
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="subtitle is-size-7-mobile">Weddings</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="card-image">
+              <figure class="image is-4by3">
+                <img src="../images/camp2.jpg" alt="wedding image">
+              </figure>
+            </div>
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="subtitle is-size-7-mobile">Camping Expeditions</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="card-image">
+              <figure class="image is-4by3">
+                <img src="../images/team1.jpeg" alt="wedding image">
+              </figure>
+            </div>
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="subtitle is-size-7-mobile">Team building</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     </section>
   </section>
-  <section class="section has-background-grey-dark">
-    <div class="container">
-      <h1 class="title has-text-grey-lighter">Letting and Management</h1>
-      <h2 class="subtitle">
-        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
-      </h2>
-    </div>
-  </section>
-  <section class="section has-background-grey" style="background-image: url('../images/rael1.jpg');" >
-    <div class="container" >
-      <h1 class="title">Events $ Venues</h1>
-      <h2 class="subtitle">
-        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
-      </h2>
-    </div>
-  </section>
-  <section class="section has-background-grey-light">
-    <div class="container">
-      <h1 class="title">Rent Collection & management</h1>
-      <h2 class="subtitle">
-        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
-      </h2>
-      <h1 class="title">Sale of Land</h1>
-      <h2 class="subtitle">
-        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
-      </h2>
-      <h1 class="title">Serviced Appartment</h1>
-      <h2 class="subtitle">
-        Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, with the goal of improving real estate management in Portugal.
-      </h2>
-    </div>
-  </section>
-
+  
   <hr class="navbar-divider">
    
 <footer class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/back6.jpg'); background-size: cover;">
     <div class="column is-mobile">
 <div class="columns is-desktop">
   <div class="column">
-    <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
+    <h1 class="subtitle is-5 has-text-grey-light is-size-5-mobile">Company Bio</h1>
             <hr class="navbar-divider">
-              <div class="content is-small is-size-6 has-text-grey-light">
+              <div class="content is-small is-size-6 is-size-7-mobile has-text-grey-light">
               OCA was founded in 1992 with a vision to establish an integrated and professional market within Kisumu County to enhance a competition within the global standards.
               </div>
   </div>
   <div class="column">
     <h1 class="subtitle is-5 has-text-grey-light">Reach out!</h1>
-          <div class="content is-small is-family-primary has-text-white">
+          <div class="content is-small is-family-primary has-text-white is-size-7-mobile">
             <p> oungaland@gmail.com </p>
             <p> (+254)722-739504, (+254)745-648833  </p>
             <p> Kogello gardens</p>
@@ -67,7 +122,7 @@
 </div>
 </footer>
 <section class="section has-background-white-ter">
-  <div class="content has-text-centered is-small is-family-primary has-text-black">
+  <div class="content has-text-centered is-small is-family-primary has-text-black is-size-8-mobile">
        <p>Copyright 2020 © Ounga Commercial Agencies. All rights reserved. Created by Jomo.</p>
      </div>
 </section>
