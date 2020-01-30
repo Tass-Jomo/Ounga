@@ -19,10 +19,6 @@ config :ounga, OungaWeb.Endpoint,
 config :logger, level: :info
 
 # ## SSL Support
-config :ounga, Ounga.Repo,
-  ssl: true,
-  url: System.get_env("DATABASE_URL"),
-  pool_size: String.to_integer(System.get_env("POOL_SIZE") || "10")
 #
 # To get SSL working, you will need to add the `https` key
 # to the previous section and set your `:url` port to 443:
@@ -58,4 +54,4 @@ config :ounga, Ounga.Repo,
 
 # Finally import the config/prod.secret.exs which loads secrets
 # and configuration from environment variables.
-# import_config "prod.secret.exs"
+import_config "prod.secret.exs"
