@@ -2,11 +2,12 @@
 	<div class="hero-body">
     <div class="container">
 
-        <h1 class="title has-text-centered has-text-black is-size-3">
+        <h1 class="title has-text-centered has-text-black is-size-3 is-size-5-mobile">
           Victoria Terraces
         </h1>
-
-        <div class="modal" href="">View</div>
+        <h2 class="subtitle has-text-centered is-size-6-mobile">Full house construction with land.</h2>
+        <h2 class="subtitle has-text-centered is-size-6-mobile">Estimated price <strong>25M</strong></h2>
+        
 
       <div class="columns is-multiline is-centered">
         <div class="column">
@@ -19,12 +20,8 @@
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                    <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit A</p>
+                    <p class="subtitle is-5 has-text-link has-text-weight-light is-size-7-mobile">Side A</p>
                   </div>
-                </div>
-
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               </div>
            </div>
@@ -39,12 +36,8 @@
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit B</p>
+                  <p class="subtitle is-5 has-text-link has-text-weight-light is-size-7-mobile">Side B</p>
                   </div>
-                </div>
-
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               </div>
            </div>
@@ -59,12 +52,8 @@
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit C</p>
+                  <p class="subtitle is-5 has-text-link has-text-weight-light is-size-7-mobile">Side C</p>
                   </div>
-                </div>
-
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               </div>
            </div>
@@ -81,12 +70,8 @@
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                   <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit D</p>
+                   <p class="subtitle is-5 has-text-link has-text-weight-light is-size-7-mobile">Side D</p>
                   </div>
-                </div>
-
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               </div>
            </div>
@@ -101,12 +86,8 @@
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit E</p>
+                  <p class="subtitle is-5 has-text-link has-text-weight-light is-size-7-mobile">Side E</p>
                   </div>
-                </div>
-
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               </div>
            </div>
@@ -121,12 +102,8 @@
               <div class="card-content">
                 <div class="media">
                   <div class="media-content">
-                  <p class="subtitle is-5 has-text-link has-text-weight-light">Exhibit F</p>
+                  <p class="subtitle is-5 has-text-link has-text-weight-light is-size-7-mobile">Side F</p>
                   </div>
-                </div>
-
-                <div class="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               </div>
            </div>
@@ -145,7 +122,7 @@
         <div class="column">
           <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
                   <hr class="navbar-divider">
-                    <div class="content is-small is-size-6 has-text-grey-light">
+                    <div class="content is-small is-size-6 has-text-grey-light is-size-7-mobile">
                     Mare Asset Management brings together professionals who are experienced in the support and performance of property management services, 
                     </div>
         </div>

@@ -5,10 +5,10 @@
                          background-position: center;">
       <div class="hero-body">
         <div class="container is-fluid" >
-          <h1 class="title has-text-grey-light is-size-2">
+          <h1 class="title has-text-grey-light is-size-2 is-size-5-mobile">
             OUNGA COMMERCIAL AGENCIES
           </h1>
-          <h2 class="subtitle has-text-primary is-size-3">
+          <h2 class="subtitle has-text-primary is-size-3 is-size-6-mobile">
             Real Estate Consultants, Developers and Managing Agents
           </h2>
         </div>
@@ -17,7 +17,7 @@
 
 <section class="section has-background-white-ter">
     <div class="container">
-          <h1 class="title has-text-centered has-text-grey-dark is-size-1">Our Services</h1>
+          <h1 class="title has-text-centered has-text-grey-dark is-size-1 is-size-6-mobile">Our Services</h1>
       <div class="columns is-centered">
         <div class="column">
          <div class="box">
@@ -26,8 +26,8 @@
               <img src="../images/building.png" alt="phone icon">
             </a>
             <br>
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Letting $ Management</h2>
-             <div class="contents is-small is-family-primary">
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light is-size-5-mobile">Letting $ Management</h2>
+             <div class="contents is-small is-family-primary is-size-7-mobile">
                  <p >We save you the hustle and bustle of letting and managing your property so you can relax and build more.</p>
             </div>
           </div>
@@ -40,8 +40,8 @@
               <img src="../images/event.png" alt="calendar icon">
             </a>
              <br>
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Event venues</h2>
-            <div class="contents is-small is-family-primary">
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light is-size-5-mobile">Event venues</h2>
+            <div class="contents is-small is-family-primary is-size-7-mobile">
                    <p>We have stunningly manicured gardens ideal for events i.e Weddings, camping and parties.</p>
             </div>
         </div>
@@ -55,8 +55,8 @@
             </a>
            <br>
            
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light">Real Estate</h2>
-            <div class="contents is-small is-family-sans-primary">
+                  <h2 class="subtitle is-5 has-text-link has-text-weight-light is-size-5-mobile">Real Estate</h2>
+            <div class="contents is-small is-family-sans-primary is-size-7-mobile">
                  <p>We are in the business of creating stunning homes, giving value is always in our niche.</p>
             </div>
           
@@ -67,29 +67,6 @@
     </div>
   </section>
 <hr class="navbar-divider">
-
-<section class="section has-background-white-ter">
-      <div class="columns">
-        <div class="column is-narrow">
-          <a class="image is-128x128">
-              <img class="is-rounded" src="../images/prop1.jpg" alt="phone icon">
-            </a>
-        </div>
-      <div class="column">
-          <h2 class="subtitle is-4 has-text-link has-text-weight-light">Real Estate Management Services </h2>
-          <div class="contents is-small is-family-sans-primary">
-            <ul>
-              <li>Letting & Management</li>
-              <li>Sale of land</li>
-              <li>Art Center</li>
-              <li>Serviced Appartments</li>
-            </ul>
-          </div> 
-      </div>
-      </div>
-  </section>
-
-  <hr class="navbar-divider">
    
 <footer class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/back6.jpg'); background-size: cover;">
     <div class="column is-mobile">
@@ -97,7 +74,7 @@
   <div class="column">
     <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
             <hr class="navbar-divider">
-              <div class="content is-small is-size-6 has-text-grey-light">
+              <div class="content is-small is-size-6 has-text-grey-light is-size-7-mobile">
               OCA was founded in 1992 with a vision to establish an integrated and professional market within Kisumu County to enhance a competition within the global standards.
               </div>
   </div>

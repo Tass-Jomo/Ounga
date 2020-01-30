@@ -1,11 +1,11 @@
 <section class="section has-background-white-ter" >
-      <h1 class="title has-text-black is-size-2">
+      <h1 class="title has-text-black is-size-2 is-size-5-mobile">
         About Us
       </h1>
        <div class="columns">
         <div class="column">
-          <h2 class="subtitle is-4 has-text-link has-text-weight-light">Real Estate Management Agents </h2>
-          <div class="contents is-small is-family-primary">
+          <h2 class="subtitle is-4 has-text-link has-text-weight-light is-size-5-mobile">Real Estate Management Agents </h2>
+          <div class="contents is-small is-family-primary is-size-7-mobile">
             
              <p> Combine quality with new concepts and good reputation, you get Ounga Commercial Agencies (OCA). OCA was founded in 1992 with a vision to establish an integrated and professional market within Kisumu County to enhance a competition within the global standards.
               We provide high level expertise in real estate focusing initially on Property/Home sellers and Home/Property buyers, managing and letting agents as well as in-house sales agents.
@@ -30,23 +30,16 @@
       <div class="columns">
         <div class="column">
           <div class="box">
-          <p class="title">Mission</p>
-            <p class="heading">3,456</p>
+          <p class="title has-text-centered is-size-6-mobile">Mission</p>
+            <p class="heading has-text-centered is-size-7">"Delivering quality homes"</p>
           </div>
         </div>
         <div class="column">
           <div class="box">
-          <p class="title">Vision</p>
-            <p class="heading">3,456</p>
+          <p class="title has-text-centered is-size-6-mobile">Vision</p>
+            <p class="heading has-text-centered is-size-7">"Fostering healthy dwellings and sustained wealth"</p>
           </div>
         </div>
-        <div class="column">
-          <div class="box">
-          <p class="title">Core Business</p>
-            <p class="heading">3,456</p>
-          </div>
-        </div>
-      </div>
   </div>
 </section>
  <hr class="navbar-divider">
@@ -57,7 +50,7 @@
   <div class="column">
     <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
             <hr class="navbar-divider">
-              <div class="content is-small is-size-6 has-text-grey-light">
+              <div class="content is-small is-size-6 has-text-grey-light is-size-7-mobile">
               OCA was founded in 1992 with a vision to establish an integrated and professional market within Kisumu County to enhance a competition within the global standards.
               </div>
   </div>
