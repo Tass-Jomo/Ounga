@@ -1,4 +1,4 @@
 /* This file is for your main application css. */
 
-@import "bulma";
-@import "bulma/sass/utilities/_all.sass";
+@import "~bulma";
+
