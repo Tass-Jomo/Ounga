@@ -18,11 +18,13 @@
               </div>
               <div class="tile is-parent">
                 <article class="tile is-child notification is-info">
-                  <p class="title">Affordable Units</p>
-                  <p class="subtitle">Looking for available and Affordable units?</p>
+                  <p class="title">Serviced Appatments</p>
+                  <p class="subtitle">Looking for available, well serviced units?</p>
                   <figure class="image is-4by3">
                     <img src="../images/img1.JPG">
                   </figure>
+                  <br>
+                  <a class="button is-dark" href="/apartments">Details</a>
                   <br>
                    
                 </article>
