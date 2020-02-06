@@ -1,3 +1,5 @@
+<br>
+<br>
 <section class="hero has-background-white-ter" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/garden1.jpg');">
   <div class="hero-body">
     <div class="container">
@@ -6,25 +8,25 @@
             <div class="tile">
               <div class="tile is-parent is-vertical">
                 <article class="tile is-child notification has-background-grey-light">
-                  <p class="title">Victoria Terraces</p>
-                  <p class="subtitle">We create some of the best terraces in town</p>
-                    <a class="button is-dark" href="/terraces">View</a>
+                  <p class="title is-5 is-size-7-mobile">Victoria Terraces</p>
+                  <p class="subtitle is-5 is-size-7-mobile">We create some of the best terraces in town</p>
+                    <a class="button is-danger is-outlined is-small" href="/terraces">View gallery</a>
                 </article>
-                <article class="tile is-child notification is-warning">
-                  <p class="title">Raeli Gardens</p>
-                  <p class="subtitle">Come enjoy the serenity of Reali gardens</p>
-                  <a class="button is-dark" href="/raeli">View</a>
+                <article class="tile is-child notification has-background-grey-light">
+                  <p class="title is-5 is-size-7-mobile">Raeli Gardens</p>
+                  <p class="subtitle is-5 is-size-7-mobile">Come enjoy the serenity of Reali gardens</p>
+                  <a class="button is-danger is-outlined is-small" href="/raeli">View gallery</a>
                 </article>
               </div>
               <div class="tile is-parent">
-                <article class="tile is-child notification is-info">
-                  <p class="title">Serviced Appatments</p>
-                  <p class="subtitle">Looking for available, well serviced units?</p>
+                <article class="tile is-child notification has-background-grey-light">
+                  <p class="title is-5 is-size-7-mobile">Serviced Appatments</p>
+                  <p class="subtitle is-5 is-size-7-mobile">Looking for available, well serviced units?</p>
                   <figure class="image is-4by3">
-                    <img src="../images/img1.JPG">
+                    <img src="../images/s1.jpg">
                   </figure>
                   <br>
-                  <a class="button is-dark" href="/apartments">Details</a>
+                  <a class="button is-danger is-outlined is-small is-fullwidth" href="/apartments">Show details</a>
                   <br>
                    
                 </article>

@@ -1,11 +1,11 @@
 <section class="section">
 <div class="container is-widescreen">
   <div class="notification">
-    <h1 class="title has-text-centered has-text-black is-size-3">
+    <h1 class="title has-text-centered has-text-black is-size-3 is-size-5-mobile">
     Contact Us
   </h1>
-  <div class="content has-text-centered">
-  <p class="subtitle">We’re easy to get ahold of and are in the office Monday - Friday</p>
+  <div class="content has-text-centered is-size-7-mobile">
+  <p class="subtitle is-5 is-size-7-mobile">We’re easy to get ahold of and are in the office Monday - Friday</p>
     <time>08:00 AM to 05:00PM</time>
   </div>
       <div class="columns is-centered">
@@ -16,7 +16,7 @@
               <img src="../images/pin.png" alt="pin icon">
             </a>
             <br>
-                  <h2 class="subtitle is-6 has-text-grey is-small is-family-sans-primary">Kogello Gardens</h2>
+                  <h2 class="subtitle is-6 is-size-7-mobile has-text-grey is-small is-family-sans-primary">Kogello Gardens</h2>
              <div class="content is-small is-family-primary has-text-grey-dark">
                  <p >Kogello Gardens</p>
                  <p >2115-40100 Kisumu</p>
@@ -33,7 +33,7 @@
               <img src="../images/telephone.png" alt="phone icon">
             </a>
              <br>
-                  <h2 class="subtitle is-6 has-text-grey is-small is-family-sans-primary">Ounga Office</h2>
+                  <h2 class="subtitle is-6 is-size-7-mobile has-text-grey is-small is-family-sans-primary">Ounga Office</h2>
             <div class="content is-small is-family-primary has-text-grey">
                    <h5>(+254)722-739504</h5>
                    <h5>(+254)745-648833</h5>
@@ -49,7 +49,7 @@
            </a>
            <br>
            
-                  <h2 class="subtitle is-6 has-text-grey is-medium is-family-sans-primary">Send mail</h2>
+                  <h2 class="subtitle is-6 is-size-7-mobile has-text-grey is-medium is-family-sans-primary">Send mail</h2>
             <div class="content is-small is-family-primary">
                  <p>oungaland@gmail.com</p>
             </div>

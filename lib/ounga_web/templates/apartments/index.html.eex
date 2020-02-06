@@ -1,91 +1,96 @@
 <section class="section has-background-white-ter">
   <br>
-  <h1 class="title has-text-centered has-text-black is-size-3">
+  <h1 class="title has-text-centered has-text-black is-size-3 is-size-6-mobile">
    Serviced Apartments
   </h1>
 
 <div class="columns">
   <div class="column">
     <div class="card">
-      <header class="card-header ">
-        <p class="card-header-title ">
+      <header class="card-header is-size-7-mobile">
+        <p class="card-header-title is-5">
          BETSITTER
         </p>
       </header>
       <div class="card-content">
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
-          <a href="#">@bulmaio</a>. <a href="#">#css</a> <a href="#">#responsive</a>
+        <div class="content is-size-7-mobile">
+          <li>Bed & Breakfast</li>
+          <li>Garages</li>
+          <li>Back 11</li>
           <br>
-          
         </div>
       </div>
-      <footer class="card-footer">
-        <a class="card-footer-item">Daily rate 4,500ksh</a>
-        <a class="card-footer-item">Monthly rate 50,000ksh</a>
+      <footer class="card-footer is-size-7-mobile">
+        <a class="card-footer-item has-text-danger">Daily rate 4,500ksh</a>
+        <a class="card-footer-item has-text-black">Monthly rate 50,000ksh</a>
         
       </footer>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <header class="card-header">
-        <p class="card-header-title">
+      <header class="card-header is-size-7-mobile">
+        <p class="card-header-title is-5">
          BETSITTER (Executives)
         </p>
       </header>
       <div class="card-content">
-        <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
-          <a href="#">@bulmaio</a>. <a href="#">#css</a> <a href="#">#responsive</a>
-          
+        <div class="content is-size-7-mobile">
+          <li>Bed & Breakfast</li>
+          <li>Cottages</li>
+          <li>Back 13&14</li>
+          <br>
         </div>
       </div>
-      <footer class="card-footer">
-        <a href="#" class="card-footer-item">Daily rate 5,500ksh</a>
-        <a href="#" class="card-footer-item">Monthly rate 50,000ksh</a>
+      <footer class="card-footer is-size-7-mobile">
+        <a  class="card-footer-item has-text-danger">Daily rate 5,500ksh</a>
+        <a  class="card-footer-item has-text-black">Monthly rate 50,000ksh</a>
         
       </footer>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <header class="card-header">
-        <p class="card-header-title">
+      <header class="card-header is-size-7-mobile">
+        <p class="card-header-title is-5">
          2 BEDROOM
         </p>
       </header>
-      <div class="card-content">
+      <div class="card-content is-size-7-mobile">
         <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
-          <a href="#">@bulmaio</a>. <a href="#">#css</a> <a href="#">#responsive</a>
+          <li>Fully furnished</li>
+          <li>Master ensuite</li>
+          <li>Max persons 4</li>
+          <li>Own garden with Wifi</li>
           
         </div>
       </div>
-      <footer class="card-footer">
-        <a href="#" class="card-footer-item">Daily rate 9,000ksh</a>
-        <a href="#" class="card-footer-item">Monthly rate 80,000ksh</a>
+      <footer class="card-footer is-size-7-mobile">
+        <a  class="card-footer-item has-text-danger">Daily rate 9,000ksh</a>
+        <a  class="card-footer-item has-text-black">Monthly rate 80,000ksh</a>
         
       </footer>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <header class="card-header">
-        <p class="card-header-title">
+      <header class="card-header is-size-7-mobile">
+        <p class="card-header-title is-5">
          4 BEDROOM
         </p>
       </header>
-      <div class="card-content">
+      <div class="card-content is-size-7-mobile">
         <div class="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.
-          <a href="#">@bulmaio</a>. <a href="#">#css</a> <a href="#">#responsive</a>
+          <li>Fully furnished</li>
+          <li>Master ensuite</li>
+          <li>Max persons 6</li>
+          <li>Own garden with Wifi</li>
           
         </div>
       </div>
-      <footer class="card-footer">
-        <a href="#" class="card-footer-item">Daily rate 12,000ksh</a>
-        <a href="#" class="card-footer-item">Monthly rate 120,000ksh</a>
+      <footer class="card-footer is-size-7-mobile">
+        <a  class="card-footer-item has-text-danger">Daily rate 12,000ksh</a>
+        <a  class="card-footer-item has-text-black">Monthly rate 120,000ksh</a>
         
       </footer>
     </div>
@@ -96,7 +101,7 @@
     <div class="card">
           <div class="card-image">
             <figure class="image is-1by1">
-              <img src="../images/s1.jpg" alt="Placeholder image">
+              <img src="../images/s3.jpg" alt="Placeholder image">
             </figure>
           </div>
     </div>
@@ -167,6 +172,75 @@
     </div>
   </div>
 </div>
+<div class="columns">
+  <div class="column">
+    <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/gar1.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/twobed.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/gar2.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+          <div class="card-image">
+            <figure class="image is-1by1">
+              <img src="../images/twobed1.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+    </div>
+  </div>
+</div>
+<a class="button is-primary is-small is-fullwidth is-outlined is-rounded has-text-black" href="/upcoming">Back</a>
+<br>
+<hr class="navbar-divider">
+   
+<footer class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/back6.jpg'); background-size: cover;">
+    <div class="column is-mobile">
+      <div class="columns is-desktop">
+        <div class="column">
+          <h1 class="subtitle is-5 has-text-grey-light">Company Bio</h1>
+                  <hr class="navbar-divider">
+                    <div class="content is-small is-size-6 has-text-grey-light">
+                    OCA was founded in 1992 with a vision to establish an integrated and professional market within Kisumu County to enhance a competition within the global standards.
+                    </div>
+        </div>
+        <div class="column">
+          <h1 class="subtitle is-5 has-text-grey-light">Reach out!</h1>
+                <div class="content is-small is-family-primary has-text-white">
+                  <p> oungaland@gmail.com </p>
+                  <p> (+254)722-739504, (+254)745-648833  </p>
+                  <p> Kogello gardens</p>
+                  <p> Millimani-Kisumu</p>
+                </div>
+        </div>
+      </div>
+    </div>
+     
+</footer>
+<section class="section has-background-white-ter">
+  <div class="content has-text-centered is-small is-family-primary has-text-black">
+       <p>Copyright 2020 © Ounga Commercial Agencies. All rights reserved. Created by Jomo.</p>
+     </div>
 </section>
 
 
