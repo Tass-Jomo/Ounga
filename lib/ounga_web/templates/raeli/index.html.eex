@@ -1,12 +1,16 @@
 <section class="hero is-fullheight has-background-white-ter">
-	<div class="hero-body">
-    <div class="container">
 
-        <h1 class="title has-text-centered has-text-black is-size-3">
+	<div class="hero-body">
+
+    <div class="container">
+         <br>
+  
+  
+        <h1 class="title has-text-centered has-text-black is-size-3 is-size-6-mobile">
           Raeli Gardens
         </h1>
 
-      <div class="columns is-multiline is-centered">
+      <div class="columns">
         <div class="column">
            <div class="card">
               <div class="card-image">
@@ -37,7 +41,7 @@
            </div>
         </div>
       </div>
-      <div class="columns is-multiline is-centered">
+      <div class="columns">
         <div class="column">
           <div class="card">
               <div class="card-image">
@@ -69,9 +73,12 @@
            </div>
         </div>
       </div>
-      <a class="button is-link is-light is-small is-fullwidth is-outlined is-rounded" href="/upcoming">Back</a>
+      <br>
+
+      <a class="button is-primary is-small is-fullwidth is-outlined is-rounded has-text-black" href="/upcoming">Back</a>
     </div>
   </div>
+
 </section>
 <hr class="navbar-divider">
    

@@ -2,7 +2,7 @@
   <div class="navbar-brand">
     <a class="navbar-item">
       <img src="../images/ocalogo.jpg" width="90" height="120" alt="OCA logo">
-      <h1 class="subtitle">OUNGA COMMERCIAL AGENCIES</h1>
+      <h1 class="subtitle is-6 is-size-7-mobile">OUNGA COMMERCIAL AGENCIES</h1>
     </a>
 
     <div role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" data-target="navbarExampleTransparentExample">
