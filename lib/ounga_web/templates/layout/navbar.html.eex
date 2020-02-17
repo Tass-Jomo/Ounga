@@ -1,11 +1,10 @@
- <nav class="navbar is-primary is-expanded is-fixed-top" role="navigation" aria-label="main navigation">
+ <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item">
-      <img src="../images/ocalogo.jpg" width="90" height="120" alt="OCA logo">
-      <h1 class="subtitle is-6 is-size-7-mobile">OUNGA COMMERCIAL AGENCIES</h1>
+    <a href="/">
+      <img src="../images/logo2.png" width="150" height="150" alt="OCA logo">
     </a>
 
-    <div role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" data-target="navbarExampleTransparentExample">
+  <div role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>

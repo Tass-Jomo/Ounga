@@ -1,14 +1,15 @@
-
+<br>
+<br>
   <section class="hero  is-fullheight-with-navbar intro" 
-                  style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('../images/vic4.JPG');
+                  style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.6)), url('../images/vic4.JPG');
                          background-size: cover;
                          background-position: center;">
       <div class="hero-body">
         <div class="container is-fluid" >
-          <h1 class="title has-text-grey-light is-size-2 is-size-5-mobile">
+          <h1 class="title has-text-centered has-text-white is-size-2 is-size-5-mobile">
             OUNGA COMMERCIAL AGENCIES
           </h1>
-          <h2 class="subtitle has-text-primary is-size-3 is-size-6-mobile">
+          <h2 class="subtitle has-text-centered has-text-white is-size-3 is-size-6-mobile">
             Real Estate Consultants, Developers and Managing Agents
           </h2>
         </div>
@@ -17,7 +18,7 @@
 
 <section class="section has-background-white-ter">
     <div class="container">
-          <h1 class="title has-text-centered has-text-grey-dark is-size-1 is-size-6-mobile">Our Services</h1>
+          <h1 class="title has-text-centered has-text-grey-dark is-size-3 is-size-6-mobile">Our Services</h1>
       <div class="columns is-centered">
         <div class="column">
          <div class="box">
@@ -26,8 +27,8 @@
               <img src="../images/building.png" alt="phone icon">
             </a>
             <br>
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light is-size-5-mobile">Letting $ Management</h2>
-             <div class="contents is-small is-family-primary is-size-7-mobile">
+                  <h2 class="subtitle is-6 has-text-link has-text-weight-light is-size-5-mobile">Letting $ Management</h2>
+             <div class="content is-7 is-family-primary is-size-7-mobile">
                  <p >We save you the hustle and bustle of letting and managing your property so you can relax and build more.</p>
             </div>
           </div>
@@ -40,8 +41,8 @@
               <img src="../images/event.png" alt="calendar icon">
             </a>
              <br>
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light is-size-5-mobile">Event venues</h2>
-            <div class="contents is-small is-family-primary is-size-7-mobile">
+                  <h2 class="subtitle is-6 has-text-link has-text-weight-light is-size-5-mobile">Event venues</h2>
+            <div class="content is-7 is-family-primary is-size-7-mobile">
                    <p>We have stunningly manicured gardens ideal for events i.e Weddings, camping and parties.</p>
             </div>
         </div>
@@ -55,8 +56,8 @@
             </a>
            <br>
            
-                  <h2 class="subtitle is-5 has-text-link has-text-weight-light is-size-5-mobile">Real Estate</h2>
-            <div class="contents is-small is-family-sans-primary is-size-7-mobile">
+                  <h2 class="subtitle is-6 has-text-link has-text-weight-light is-size-5-mobile">Real Estate</h2>
+            <div class="content is-7 is-family-sans-primary is-size-7-mobile">
                  <p>We are in the business of creating stunning homes, giving value is always in our niche.</p>
             </div>
           
