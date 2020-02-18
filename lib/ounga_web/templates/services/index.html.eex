@@ -1,9 +1,12 @@
 <section class="section has-background-white-ter">
   <br>
   <br>
+  <br>
+
     <div class="container">
-      <h1 class="title has-text-grey-dark is-size-6-mobile has-text-light">We provide property management services in Kisumu According to your needs </h1>
-      <h2 class="subtitle is-size-6 is-size-6-mobile">
+      <h1 class="title is-5 has-text-grey-dark is-size-6-mobile has-text-light">We provide property management services in Kisumu According to your needs </h1>
+
+      <h2 class="subtitle is-size-7 is-size-6-mobile">
         Invest in Ounga commercials
       </h2>
     </div>
@@ -15,9 +18,9 @@
                          background-position: center;">
     <section class="hero-body">
       <div class="container">
-         <h1 class="title has-text-white has-text-weight-light is-size-5-mobile">Our real estate management services in Kisumu</h1>
+         <h1 class="title is-5 has-text-white has-text-weight-light is-size-5-mobile">Our real estate management services in Kisumu</h1>
          <br>
-         <h2 class="subtitle has-text-white is-size-6-mobile" >All information will be provided under request</h2>
+         <h2 class="subtitle is-size-5 has-text-white is-size-6-mobile" >All information will be provided under request</h2>
          <br>
            <div class="columns has-text-white has-text-left-mobile">
               <div class="column">
@@ -42,7 +45,7 @@
   <section class="hero has-background-white-ter">
     <section class="hero-body">
     <div class="container has-text-centered" >
-      <h1 class="title is-size-6-mobile">Event venues</h1>
+      <h1 class="title is-5 is-size-6-mobile">Event venues</h1>
       <div class="columns">
         <div class="column">
           <div class="card">

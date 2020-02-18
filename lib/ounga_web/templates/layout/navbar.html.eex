@@ -4,14 +4,14 @@
       <img src="../images/logo2.png" width="150" height="150" alt="OCA logo">
     </a>
 
-  <div role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+  <div role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </div>
   </div>
 
-  <div class="navbar-menu">
+  <div class="navbar-menu is-active" id="navMenu">
     <div class="navbar-end">
       <a class="navbar-item is-size-6 has-text-black is-tab" href="/">
         Home
