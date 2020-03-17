@@ -1,10 +1,12 @@
 <section class="section has-background-white-ter">
 <div class="container">
-
+<br>
+<br>
+<br>
   <h1 class="title has-text-centered has-text-black is-size-3">
     Victoria Gardens
   </h1>
-
+<br>
 <div class="columns is-multiline is-centered">
       <div class="column">
         <div class="card">
@@ -268,6 +270,6 @@
 </footer> 
 <section class="section has-background-white-ter">
   <div class="content has-text-centered is-small is-family-primary has-text-black">
-       <p>Copyright 2020 © Ounga Commercial Agencies. All rights reserved. Created by Tass Jomo.</p>
+       <p>Copyright 2020 © Ounga Commercial Agencies. All rights reserved. Created by Ejay Works.</p>
      </div>
 </section>  
