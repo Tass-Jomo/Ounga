@@ -29,7 +29,7 @@
           <a class=" navbar-item is-size-6" href="/victoria" >
             Victoria Gardens
           </a>
-          <a class="navbar-item is-size-6 has-text-primary" href="/upcoming">
+          <a class="navbar-item is-size-6 has-text-link" href="/upcoming">
             Upcoming projects
           </a>
         </div>
