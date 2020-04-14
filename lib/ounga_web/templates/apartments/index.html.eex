@@ -12,7 +12,7 @@
     <div class="card">
       <header class="card-header is-size-7-mobile">
         <p class="card-header-title is-5">
-         BETSITTER(Normal)
+         Deluxe Bedsitter
         </p>
       </header>
       <div class="card-content">
@@ -33,7 +33,7 @@
     <div class="card">
       <header class="card-header is-size-7-mobile">
         <p class="card-header-title is-5">
-         BETSITTER (Executives)
+         Executive Bedsitter
         </p>
       </header>
       <div class="card-content">
@@ -45,7 +45,7 @@
       </div>
       <footer class="card-footer is-size-7-mobile">
         <a  class="card-footer-item has-text-danger">Daily rate 5,500ksh</a>
-        <a  class="card-footer-item has-text-black">Monthly rate 50,000ksh</a>
+        <a  class="card-footer-item has-text-black">Monthly rate 60,000ksh</a>
         
       </footer>
     </div>
@@ -54,7 +54,7 @@
     <div class="card">
       <header class="card-header is-size-7-mobile">
         <p class="card-header-title is-5">
-         2 BEDROOM
+         2 Bedroom
         </p>
       </header>
       <div class="card-content is-size-7-mobile">
@@ -77,7 +77,7 @@
     <div class="card">
       <header class="card-header is-size-7-mobile">
         <p class="card-header-title is-5">
-         3 BEDROOM
+         3 Bedroom
         </p>
       </header>
       <div class="card-content is-size-7-mobile">
