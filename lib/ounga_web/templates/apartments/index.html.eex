@@ -12,14 +12,13 @@
     <div class="card">
       <header class="card-header is-size-7-mobile">
         <p class="card-header-title is-5">
-         BETSITTER
+         BETSITTER(Normal)
         </p>
       </header>
       <div class="card-content">
         <div class="content is-size-7-mobile">
           <li>Bed & Breakfast</li>
-          <li>Garages</li>
-          <li>Back 11</li>
+         
           <br>
         </div>
       </div>
@@ -40,8 +39,7 @@
       <div class="card-content">
         <div class="content is-size-7-mobile">
           <li>Bed & Breakfast</li>
-          <li>Cottages</li>
-          <li>Back 13&14</li>
+          
           <br>
         </div>
       </div>
@@ -79,7 +77,7 @@
     <div class="card">
       <header class="card-header is-size-7-mobile">
         <p class="card-header-title is-5">
-         4 BEDROOM
+         3 BEDROOM
         </p>
       </header>
       <div class="card-content is-size-7-mobile">
