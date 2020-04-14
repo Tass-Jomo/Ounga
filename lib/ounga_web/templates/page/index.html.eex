@@ -6,12 +6,17 @@
                          background-position: center;">
       <div class="hero-body">
         <div class="container is-fluid" >
-          <h1 class="title has-text-centered has-text-white is-size-2 is-size-5-mobile">
+          <h1 class="title has-text-centered has-text-weight-bold has-text-white is-size-1 is-size-5-mobile">
+            KISUMU
+          </h1>
+          <h1 class="content has-text-centered has-text-white is-size-3 is-size-6-mobile">
             OUNGA COMMERCIAL AGENCIES
           </h1>
-          <h2 class="subtitle has-text-centered has-text-white is-size-3 is-size-6-mobile">
-            Real Estate Consultants, Developers and Managing Agents
-          </h2>
+          <p class="content has-text-centered is-size-6 has-text-white is-size-7-mobile">
+           Real Estate Consultants, Developers and Managing Agents
+          </p>
+
+          
         </div>
       </div>
   </section>
@@ -20,6 +25,21 @@
     <div class="container">
           <h1 class="title has-text-centered has-text-grey-dark is-size-3 is-size-6-mobile">Our Services</h1>
       <div class="columns is-centered">
+          <div class="column">
+          <div class="box">
+          <div class="content has-text-centered">
+           <a class="image is-96x96">
+              <img src="../images/ecology.png" alt="phone icon">
+            </a>
+           <br>
+                  <h2 class="subtitle is-6 has-text-link has-text-weight-normal is-size-5-mobile">Furnished & Serviced Appartments</h2>
+            <div class="content is-7 is-family-sans-primary is-size-7-mobile">
+                 <p>We are in the business of creating stunning homes, giving value is always in our niche.</p>
+            </div>
+          
+        </div>
+      </div>
+    </div>
         <div class="column">
          <div class="box">
           <div class="content has-text-centered">
@@ -27,7 +47,7 @@
               <img src="../images/building.png" alt="phone icon">
             </a>
             <br>
-                  <h2 class="subtitle is-6 has-text-link has-text-weight-light is-size-5-mobile">Letting $ Management</h2>
+                  <h2 class="subtitle is-6 has-text-link has-text-weight-normal is-size-5-mobile">Letting $ Management</h2>
              <div class="content is-7 is-family-primary is-size-7-mobile">
                  <p >We save you the hustle and bustle of letting and managing your property so you can relax and build more.</p>
             </div>
@@ -41,29 +61,13 @@
               <img src="../images/event.png" alt="calendar icon">
             </a>
              <br>
-                  <h2 class="subtitle is-6 has-text-link has-text-weight-light is-size-5-mobile">Event venues</h2>
+                  <h2 class="subtitle is-6 has-text-link has-text-weight-normal is-size-5-mobile">Event venues</h2>
             <div class="content is-7 is-family-primary is-size-7-mobile">
                    <p>We have stunningly manicured gardens ideal for events i.e Weddings, camping and parties.</p>
             </div>
         </div>
       </div>
         </div>
-        <div class="column">
-          <div class="box">
-          <div class="content has-text-centered">
-           <a class="image is-96x96">
-              <img src="../images/ecology.png" alt="phone icon">
-            </a>
-           <br>
-           
-                  <h2 class="subtitle is-6 has-text-link has-text-weight-light is-size-5-mobile">Real Estate</h2>
-            <div class="content is-7 is-family-sans-primary is-size-7-mobile">
-                 <p>We are in the business of creating stunning homes, giving value is always in our niche.</p>
-            </div>
-          
-        </div>
-      </div>
-    </div>
       </div>
     </div>
   </section>
